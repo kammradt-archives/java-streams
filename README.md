@@ -4,4 +4,4 @@ I'm following [this playlist](https://www.youtube.com/playlist?list=PLTyWtrsGknY
 
 
 ## Examples of code:
-- [/](https://github.com/kammradt/java-streams)
+- [/](https://github.com/kammradt/java-streams/tree/master/src)
