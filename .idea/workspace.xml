@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad7306ee-61c0-4012-838c-3c0d7457c5f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SumAndMapToInt/Regular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumAndMapToInt/Streams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MapAndCollect/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapAndCollect/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,21 +15,27 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SumAndMapToInt/Regular.java">
+        <entry file="file://$PROJECT_DIR$/src/FlatMapAndOptional/Regular.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="384">
+              <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SumAndMapToInt/Streams.java">
+        <entry file="file://$PROJECT_DIR$/src/FlatMapAndOptional/Streams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="168">
+              <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,19 +57,22 @@
       <list>
         <option value="$PROJECT_DIR$/src/FilterAndForEach/Main.java" />
         <option value="$PROJECT_DIR$/src/FilterAndForEach/Streams.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/FilterAndForEach/Regular.java" />
-        <option value="$PROJECT_DIR$/src/MapAndCollect/Streams.java" />
         <option value="$PROJECT_DIR$/src/MapAndCollect/Regular.java" />
         <option value="$PROJECT_DIR$/src/MapAndCollect/User.java" />
         <option value="$PROJECT_DIR$/src/SumAndMapToInt/Streams.java" />
         <option value="$PROJECT_DIR$/src/SumAndMapToInt/Regular.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/MapAndCollect/Streams.java" />
+        <option value="$PROJECT_DIR$/src/FlatMapAndOptional/User.java" />
+        <option value="$PROJECT_DIR$/src/FlatMapAndOptional/Streams.java" />
+        <option value="$PROJECT_DIR$/src/FlatMapAndOptional/Regular.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="2880" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
     <option name="y" value="30" />
     <option name="width" value="960" />
     <option name="height" value="1050" />
@@ -93,19 +99,7 @@
               <item name="java-streams" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-streams" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FilterAndForEach" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-streams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-streams" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MapAndCollect" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-streams" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-streams" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SumAndMapToInt" type="462c0819:PsiDirectoryNode" />
+              <item name="FlatMapAndOptional" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,7 +113,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FlatMapAndOptional" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,13 +132,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Regular (2)">
-    <configuration name="Regular (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapAndCollect.Regular" />
+  <component name="RunManager" selected="Application.Regular">
+    <configuration name="Regular (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumAndMapToInt.Regular" />
       <module name="java-streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MapAndCollect.*" />
+          <option name="PATTERN" value="SumAndMapToInt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Regular (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumAndMapToInt.Regular" />
+    <configuration name="Regular" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlatMapAndOptional.Regular" />
       <module name="java-streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SumAndMapToInt.*" />
+          <option name="PATTERN" value="FlatMapAndOptional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FilterAndForEach.Streams" />
+    <configuration name="Streams (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlatMapAndOptional.Streams" />
       <module name="java-streams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FilterAndForEach.*" />
+          <option name="PATTERN" value="FlatMapAndOptional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,19 +199,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Streams" />
       <item itemvalue="Application.Streams (1)" />
-      <item itemvalue="Application.Regular (1)" />
       <item itemvalue="Application.Streams (2)" />
       <item itemvalue="Application.Regular (2)" />
+      <item itemvalue="Application.Streams (3)" />
+      <item itemvalue="Application.Regular" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Regular" />
+        <item itemvalue="Application.Streams (3)" />
+        <item itemvalue="Application.Streams (1)" />
         <item itemvalue="Application.Regular (2)" />
         <item itemvalue="Application.Streams (2)" />
-        <item itemvalue="Application.Regular (1)" />
-        <item itemvalue="Application.Streams (1)" />
-        <item itemvalue="Application.Streams" />
       </list>
     </recent_temporary>
   </component>
@@ -227,12 +226,21 @@
       <option name="presentableId" value="Default" />
       <updated>1554435338278</updated>
       <workItem from="1554435341563" duration="1230000" />
-      <workItem from="1554464469317" duration="2740000" />
+      <workItem from="1554464469317" duration="3516000" />
+      <workItem from="1554951128008" duration="46000" />
+      <workItem from="1554951191647" duration="11000" />
+      <workItem from="1554951219141" duration="140000" />
+      <workItem from="1554951377230" duration="234000" />
+      <workItem from="1554951631342" duration="34000" />
+      <workItem from="1554951681144" duration="161000" />
+      <workItem from="1554979112079" duration="614000" />
+      <workItem from="1554980756830" duration="2241000" />
+      <workItem from="1554989918856" duration="1837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3970000" />
+    <option name="totallyTimeSpent" value="10064000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -244,10 +252,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2880" y="30" width="960" height="1050" extended-state="4" />
+    <frame x="0" y="30" width="1920" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19474836" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.016008537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -256,7 +264,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32819384" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3275862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -264,7 +272,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32929516" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32435346" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32819384" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -314,16 +322,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="147">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -351,17 +349,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MapToIntAndSum.java">
+    <entry file="file://$PROJECT_DIR$/src/MapToIntAndSum.java" />
+    <entry file="file://$PROJECT_DIR$/src/SumAndMapToInt/Regular.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
+        <state relative-caret-position="240">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MapAndCollect/Streams.java">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapAndCollect/Regular.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="22" selection-start-line="18" selection-end-line="21" />
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -370,15 +382,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MapAndCollect/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="406">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MapAndCollect/Regular.java">
+    <entry file="file://$PROJECT_DIR$/src/MapAndCollect/Streams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="9" selection-start-line="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="312">
+          <caret line="13" column="31" selection-start-line="13" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -387,15 +399,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SumAndMapToInt/Streams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="90">
+          <caret line="10" column="23" selection-start-line="10" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SumAndMapToInt/Regular.java">
+    <entry file="file://$PROJECT_DIR$/src/FlatMapAndOptional/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="600">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="method#User#0;class#User#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlatMapAndOptional/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlatMapAndOptional/Regular.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
